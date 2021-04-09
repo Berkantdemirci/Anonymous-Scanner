@@ -44,6 +44,7 @@ Very simple to use. Just run the Anonymous_Scanner.py script.
 
 Example usage 
 `sudo service tor start`
+
 `sudo python3 Anonymous_Scanner.py`
 
 ![Screenshot from 2021-04-09 18-19-19](https://user-images.githubusercontent.com/58151582/114202813-3f217700-9960-11eb-80fb-70b8fbb6f115.png)
