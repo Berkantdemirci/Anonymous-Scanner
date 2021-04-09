@@ -43,6 +43,7 @@ Your 'torrc' configuration settings should look like this
 Very simple to use. Just run the Anonymous_Scanner.py script.
 
 Example usage 
+
 `sudo service tor start`
 
 `sudo python3 Anonymous_Scanner.py`
