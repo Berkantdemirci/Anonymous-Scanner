@@ -6,7 +6,7 @@ Anonymous Scanner is a Privacy oriented port scanning script. It uses tor networ
   
 ## Installation 
 
-1- Use git clone https://github.com/Berkantdemirci/Anonymous-Scanner command to clone the repository.
+1- Use `git clone https://github.com/Berkantdemirci/Anonymous-Scanner` command to clone the repository.
 
 (attention! scripts must be in the same directory)
 
